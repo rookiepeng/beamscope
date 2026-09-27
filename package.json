@@ -18,7 +18,7 @@
   "devDependencies": {
     "@napi-rs/canvas": "^1.0.9",
     "@types/node": "^26.6.2",
-    "@types/plotly.js": "^3.0.13",
+    "@types/plotly.js": "^3.0.14",
     "electron": "^44.4.5",
     "electron-builder": "^26.8.1",
     "electron-builder-squirrel-windows": "^26.8.1",
